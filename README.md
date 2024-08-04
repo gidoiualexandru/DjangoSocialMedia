@@ -6,7 +6,7 @@ This is a social media platform created using Django.
 
 ### First clone the project
 
-git clone
+git clone https://github.com/gidoiualexandru/DjangoSocialMedia.git
 
 ### Then run this command
 
